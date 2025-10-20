@@ -1,0 +1,44 @@
+﻿[
+    {
+        "EntryName":  "SecurityHealth",
+        "Path":  "C:\\WINDOWS\\system32\\SecurityHealthSystray.exe",
+        "Exists":  true,
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "EntryName":  "VBoxTray",
+        "Path":  "C:\\WINDOWS\\system32\\VBoxTray.exe",
+        "Exists":  true,
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "EntryName":  "FileZilla Server",
+        "Path":  "C:\\Program Files\\FileZilla Server\\filezilla-server-gui.exe",
+        "Exists":  true,
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "EntryName":  "OneDrive",
+        "Path":  "C:\\Users\\myvic\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe",
+        "Exists":  true,
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "EntryName":  "Proton VPN",
+        "Path":  "----ms-protocol:ms-encodedlaunch:App?ContractId=Windows.StartupTask\u0026TaskId=Proton%20VPN",
+        "Exists":  false,
+        "Suspicious":  true,
+        "Reason":  "Missing file"
+    },
+    {
+        "EntryName":  "Proton Drive",
+        "Path":  "C:\\Users\\myvic\\AppData\\Local\\Programs\\Proton\\Drive\\ProtonDrive.exe",
+        "Exists":  true,
+        "Suspicious":  false,
+        "Reason":  ""
+    }
+]

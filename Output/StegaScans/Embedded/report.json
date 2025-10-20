@@ -1,0 +1,12 @@
+﻿{
+    "Mode":  "embed",
+    "CoverImage":  "C:\\Users\\myvic\\Pictures\\smiling.jpg",
+    "OutputImage":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Output\\StegaScans\\Embedded\\stego_smiling.jpg",
+    "PayloadName":  "Revshell.txt",
+    "Encrypted":  false,
+    "PayloadOriginalBytes":  40,
+    "PayloadEmbeddedBytes":  40,
+    "CapacityBytes":  18900,
+    "UsedBytes":  68,
+    "ScanTime":  "2025-10-18T21:56:44"
+}

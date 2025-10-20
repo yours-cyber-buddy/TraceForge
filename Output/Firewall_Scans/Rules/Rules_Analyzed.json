@@ -1,0 +1,2667 @@
+﻿[
+    {
+        "Name":  "WFDPRINT-SPOOL-Out-Active",
+        "DisplayName":  "Wi-Fi Direct Spooler Use (Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "RemoteAssistance-Out-TCP",
+        "DisplayName":  "Remote Assistance (TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-SSDPSrv-Out-UDP-Active",
+        "DisplayName":  "Network Discovery (SSDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-WSDEVNT-Out-TCP-Active",
+        "DisplayName":  "Network Discovery (WSD Events-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WFDPRINT-SPOOL-In-Active",
+        "DisplayName":  "Wi-Fi Direct Spooler Use (In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "RemoteAssistance-Out-TCP-Active",
+        "DisplayName":  "Remote Assistance (TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-PTB-Out",
+        "DisplayName":  "Core Networking - Packet Too Big (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CDPSvc-Out-UDP",
+        "DisplayName":  "Connected Devices Platform (UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-IPv6-In",
+        "DisplayName":  "Core Networking - IPv6 (IPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CDPSvc-WFD-Out-TCP",
+        "DisplayName":  "Connected Devices Platform - Wi-Fi Direct Transport (TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MDNS-Out-UDP-Domain-Active",
+        "DisplayName":  "mDNS (UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "DeliveryOptimization-UDP-In",
+        "DisplayName":  "Delivery Optimization (UDP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-PP-Out",
+        "DisplayName":  "Core Networking - Parameter Problem (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-RA-In",
+        "DisplayName":  "Core Networking - Router Advertisement (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP4-DUFRAG-In",
+        "DisplayName":  "Core Networking - Destination Unreachable Fragmentation Needed (ICMPv4-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-DHCP-In",
+        "DisplayName":  "Core Networking - Dynamic Host Configuration Protocol (DHCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-DHCPV6-In",
+        "DisplayName":  "Core Networking - Dynamic Host Configuration Protocol for IPv6(DHCPV6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-SSDPSrv-In-UDP-Teredo",
+        "DisplayName":  "Network Discovery for Teredo (SSDP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CDPSvc-Out-TCP",
+        "DisplayName":  "Connected Devices Platform (TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WFDPRINT-SCAN-In-Active",
+        "DisplayName":  "Wi-Fi Direct Scan Service Use (In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "RemoteAssistance-PnrpSvc-UDP-OUT",
+        "DisplayName":  "Remote Assistance (PNRP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-RS-Out",
+        "DisplayName":  "Core Networking - Router Solicitation (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "RemoteAssistance-SSDPSrv-Out-UDP-Active",
+        "DisplayName":  "Remote Assistance (SSDP UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "RemoteAssistance-SSDPSrv-Out-TCP-Active",
+        "DisplayName":  "Remote Assistance (SSDP TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-NDS-In",
+        "DisplayName":  "Core Networking - Neighbor Discovery Solicitation (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-UPnPHost-Out-TCP-Active",
+        "DisplayName":  "Network Discovery (UPnP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "RemoteAssistance-RAServer-In-TCP-NoScope-Active",
+        "DisplayName":  "Remote Assistance (RA Server TCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-LR2-Out",
+        "DisplayName":  "Core Networking - Multicast Listener Report v2 (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NVS-FrameServer-In-UDP-NoScope",
+        "DisplayName":  "Microsoft Media Foundation Network Source IN [UDP 5004-5009]",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft-Windows-Enrollment-WinRT-TCP-Out",
+        "DisplayName":  "Windows Device Management Enrollment Service (TCP out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MDNS-Out-UDP-Public-Active",
+        "DisplayName":  "mDNS (UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "DeliveryOptimization-TCP-In",
+        "DisplayName":  "Delivery Optimization (TCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-LD-Out",
+        "DisplayName":  "Core Networking - Multicast Listener Done (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft-Windows-DeviceManagement-CertificateInstall-TCP-Out",
+        "DisplayName":  "Windows Device Management Certificate Installer (TCP out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-Teredo-Out",
+        "DisplayName":  "Core Networking - Teredo (UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-RS-In",
+        "DisplayName":  "Core Networking - Router Solicitation (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WirelessDisplay-Infra-In-TCP",
+        "DisplayName":  "Wireless Display Infrastructure Back Channel (TCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-GP-LSASS-Out-TCP",
+        "DisplayName":  "Core Networking - Group Policy (LSASS-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft-Windows-Troubleshooting-HTTP-HTTPS-Out",
+        "DisplayName":  "Recommended Troubleshooting Client (HTTP/HTTPS Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-FDRESPUB-WSD-Out-UDP-Active",
+        "DisplayName":  "Network Discovery (Pub WSD-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WirelessDisplay-Out-TCP",
+        "DisplayName":  "Wireless Display (TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WirelessDisplay-Out-UDP",
+        "DisplayName":  "Wireless Display (UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "RemoteAssistance-RAServer-Out-TCP-NoScope-Active",
+        "DisplayName":  "Remote Assistance (RA Server TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-RA-Out",
+        "DisplayName":  "Core Networking - Router Advertisement (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-NDA-In",
+        "DisplayName":  "Core Networking - Neighbor Discovery Advertisement (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-IPHTTPS-Out",
+        "DisplayName":  "Core Networking - IPHTTPS (TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NVS-FrameServer-In-TCP-NoScope",
+        "DisplayName":  "Microsoft Media Foundation Network Source IN [TCP 554]",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-IGMP-Out",
+        "DisplayName":  "Core Networking - Internet Group Management Protocol (IGMP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-PP-In",
+        "DisplayName":  "Core Networking - Parameter Problem (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-DNS-Out-UDP",
+        "DisplayName":  "Core Networking - DNS (UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-NB_Datagram-Out-UDP-Active",
+        "DisplayName":  "Network Discovery (NB-Datagram-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-Teredo-In",
+        "DisplayName":  "Core Networking - Teredo (UDP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NVS-FrameServer-Out-TCP-NoScope",
+        "DisplayName":  "Microsoft Media Foundation Network Source OUT [TCP ALL]",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-NDA-Out",
+        "DisplayName":  "Core Networking - Neighbor Discovery Advertisement (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "AllJoyn-Router-Out-UDP",
+        "DisplayName":  "AllJoyn Router (UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft-Windows-DeviceManagement-deviceenroller-TCP-Out",
+        "DisplayName":  "Windows Device Management Device Enroller (TCP out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-LQ-Out",
+        "DisplayName":  "Core Networking - Multicast Listener Query (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-LLMNR-Out-UDP-Active",
+        "DisplayName":  "Network Discovery (LLMNR-UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-UPnPHost-In-TCP-Teredo",
+        "DisplayName":  "Network Discovery for Teredo (UPnP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-TE-Out",
+        "DisplayName":  "Core Networking - Time Exceeded (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CDPSvc-In-UDP",
+        "DisplayName":  "Connected Devices Platform (UDP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CDPSvc-In-TCP",
+        "DisplayName":  "Connected Devices Platform (TCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "AllJoyn-Router-Out-TCP",
+        "DisplayName":  "AllJoyn Router (TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "RemoteAssistance-In-TCP-EdgeScope",
+        "DisplayName":  "Remote Assistance (TCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "ProximityUxHost-Sharing-Out-TCP-NoScope",
+        "DisplayName":  "Proximity sharing over TCP (TCP sharing-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-LR-Out",
+        "DisplayName":  "Core Networking - Multicast Listener Report (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WFDPRINT-DAFWSD-Out-Active",
+        "DisplayName":  "Wi-Fi Direct Network Discovery (Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-PTB-In",
+        "DisplayName":  "Core Networking - Packet Too Big (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-DHCP-Out",
+        "DisplayName":  "Core Networking - Dynamic Host Configuration Protocol (DHCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-IPHTTPS-In",
+        "DisplayName":  "Core Networking - IPHTTPS (TCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "AllJoyn-Router-In-UDP",
+        "DisplayName":  "AllJoyn Router (UDP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "RemoteAssistance-PnrpSvc-UDP-OUT-Active",
+        "DisplayName":  "Remote Assistance (PNRP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-LD-In",
+        "DisplayName":  "Core Networking - Multicast Listener Done (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft-Windows-Unified-Telemetry-Client",
+        "DisplayName":  "Connected User Experiences and Telemetry",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-DU-In",
+        "DisplayName":  "Core Networking - Destination Unreachable (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WFDPRINT-SCAN-Out-Active",
+        "DisplayName":  "Wi-Fi Direct Scan Service Use (Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CDPSvc-WFD-In-TCP",
+        "DisplayName":  "Connected Devices Platform - Wi-Fi Direct Transport (TCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MDNS-Out-UDP-Private-Active",
+        "DisplayName":  "mDNS (UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-NDS-Out",
+        "DisplayName":  "Core Networking - Neighbor Discovery Solicitation (ICMPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WFDPRINT-DAFWSD-In-Active",
+        "DisplayName":  "Wi-Fi Direct Network Discovery (In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WirelessDisplay-In-TCP",
+        "DisplayName":  "Wireless Display (TCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-IPv6-Out",
+        "DisplayName":  "Core Networking - IPv6 (IPv6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-WSDEVNTS-Out-TCP-Active",
+        "DisplayName":  "Network Discovery (WSD EventsSecure-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "ProximityUxHost-Sharing-In-TCP-NoScope",
+        "DisplayName":  "Proximity sharing over TCP (TCP sharing-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-IGMP-In",
+        "DisplayName":  "Core Networking - Internet Group Management Protocol (IGMP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-GP-NP-Out-TCP",
+        "DisplayName":  "Core Networking - Group Policy (NP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-LR2-In",
+        "DisplayName":  "Core Networking - Multicast Listener Report v2 (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-FDPHOST-Out-UDP-Active",
+        "DisplayName":  "Network Discovery (WSD-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-LQ-In",
+        "DisplayName":  "Core Networking - Multicast Listener Query (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft-Windows-DeviceManagement-OmaDmClient-TCP-Out",
+        "DisplayName":  "Windows Device Management Sync Client (TCP out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-LR-In",
+        "DisplayName":  "Core Networking - Multicast Listener Report (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-DHCPV6-Out",
+        "DisplayName":  "Core Networking - Dynamic Host Configuration Protocol for IPv6(DHCPV6-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-ICMP6-TE-In",
+        "DisplayName":  "Core Networking - Time Exceeded (ICMPv6-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "RemoteAssistance-In-TCP-EdgeScope-Active",
+        "DisplayName":  "Remote Assistance (TCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-UPnP-Out-TCP-Active",
+        "DisplayName":  "Network Discovery (UPnPHost-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NETDIS-NB_Name-Out-UDP-Active",
+        "DisplayName":  "Network Discovery (NB-Name-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "CoreNet-GP-Out-TCP",
+        "DisplayName":  "Core Networking - Group Policy (TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "PlayTo-QWave-Out-TCP-PlayToScope",
+        "DisplayName":  "Cast to Device functionality (qWave-TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "PlayTo-In-UDP-LocalSubnetScope",
+        "DisplayName":  "Cast to Device streaming server (RTCP-Streaming-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "PlayTo-Out-UDP-PlayToScope",
+        "DisplayName":  "Cast to Device streaming server (RTP-Streaming-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "PlayTo-Out-UDP-LocalSubnetScope",
+        "DisplayName":  "Cast to Device streaming server (RTP-Streaming-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "PlayTo-In-UDP-NoScope",
+        "DisplayName":  "Cast to Device streaming server (RTCP-Streaming-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "PlayTo-QWave-Out-UDP-PlayToScope",
+        "DisplayName":  "Cast to Device functionality (qWave-UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "PlayTo-Out-UDP-NoScope",
+        "DisplayName":  "Cast to Device streaming server (RTP-Streaming-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "PlayTo-In-UDP-PlayToScope",
+        "DisplayName":  "Cast to Device streaming server (RTCP-Streaming-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.AccountsControl_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Email and accounts",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Win32WebViewHost_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Desktop App Web Viewer",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Win32WebViewHost_cw5n1h2txyewy-In-Allow-ServerCapability",
+        "DisplayName":  "Desktop App Web Viewer",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Defender SmartScreen",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Your account",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy-In-Allow-ServerCapability",
+        "DisplayName":  "Your account",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Microsoft Content",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.ParentalControls_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Microsoft Family Safety",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Shell Experience",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.PrintQueueActionCenter_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Print Queue",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.XboxGameCallableUI_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Xbox Game UI",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.AIX_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.Client.AIX_1000.26100.29.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.AIX/resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.LKG.Search_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.LKG.Search_1000.26100.1742.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.LKG.Search/Resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.LKG.Search_cw5n1h2txyewy-In-Allow-ServerCapability",
+        "DisplayName":  "@{MicrosoftWindows.LKG.Search_1000.26100.1742.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.LKG.Search/Resources/ProductPkgDisplayName}",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "NcsiUwpApp_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "NcsiUwpApp",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Windows.PrintDialog_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Print",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "{2D8E8393-BB90-42EB-8150-7345A68A8EE5}",
+        "DisplayName":  "Microsoft Teams",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "{A1F7A35C-F31F-4DA6-8A2E-E0DC64E4E6BA}",
+        "DisplayName":  "Microsoft Teams",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.LKG.AccountsService_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.LKG.AccountsService_1000.26100.2894.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.LKG.AccountsService/resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.LKG.DesktopSpotlight_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.LKG.DesktopSpotlight_1000.26100.2894.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.LKG.DesktopSpotlight/resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.LKG.DesktopSpotlight_cw5n1h2txyewy-In-Allow-ServerCapability",
+        "DisplayName":  "@{MicrosoftWindows.LKG.DesktopSpotlight_1000.26100.2894.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.LKG.DesktopSpotlight/resources/ProductPkgDisplayName}",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.LKG.IrisService_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.LKG.IrisService_1000.26100.2894.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.LKG.IrisService/resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.LKG.RulesEngine_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.LKG.RulesEngine_1000.26100.2894.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.LKG.RulesEngine/resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.LKG.SpeechRuntime_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.LKG.SpeechRuntime_1000.26100.2894.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.LKG.SpeechRuntime/resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.LKG.TwinSxS_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.LKG.TwinSxS_1000.26100.2894.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.LKG.TwinSxS/resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.XboxGamingOverlay_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{Microsoft.XboxGamingOverlay_2.624.1111.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxGamingOverlay/resources/GameBar}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.XboxGamingOverlay_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "@{Microsoft.XboxGamingOverlay_2.624.1111.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxGamingOverlay/resources/GameBar}",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.NarratorQuickStart_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Narrator",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Microsoft 365 (Office)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Edge.GameAssist_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Microsoft Edge Game Assist",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Xbox.TCUI_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Xbox TCUI",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.WindowsCalculator_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Calculator",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Todos_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Microsoft To Do",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Todos_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "Microsoft To Do",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.SecHealthUI_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Security",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.SecHealthUI_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "Windows Security",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.XboxIdentityProvider_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Xbox Identity Provider",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftCorporationII.MicrosoftFamily_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Microsoft Family",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.BingNews_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "News",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Work or school account",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy-In-Allow-ServerCapability",
+        "DisplayName":  "Work or school account",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.LockApp_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Default Lock Screen",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Captive Portal Flow",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.56978801.Voiess_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.56978801.Voiess_1000.26100.4351.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.56978801.Voiess/Resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.57058570.Speion_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.57058570.Speion_1000.26100.4351.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.57058570.Speion/Resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.57074914.Livtop_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "@{MicrosoftWindows.57074914.Livtop_1000.26100.4351.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.57074914.Livtop/Resources/ProductPkgDisplayName}",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "FPS-NB_Datagram-Out-UDP-NoScope",
+        "DisplayName":  "File and Printer Sharing (NB-Datagram-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "FPS-NB_Name-Out-UDP-NoScope",
+        "DisplayName":  "File and Printer Sharing (NB-Name-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "FPS-SMB-Out-TCP",
+        "DisplayName":  "File and Printer Sharing (SMB-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "FPS-SMB-Out-TCP-NoScope",
+        "DisplayName":  "File and Printer Sharing (SMB-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft-Windows-WLANSvc-ASP-CP-Out",
+        "DisplayName":  "WFD ASP Coordination Protocol (UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "FPS-NB_Session-Out-TCP",
+        "DisplayName":  "File and Printer Sharing (NB-Session-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WiFiDirect-KM-Driver-In-TCP",
+        "DisplayName":  "WFD Driver-only (TCP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WiFiDirect-KM-Driver-In-UDP",
+        "DisplayName":  "WFD Driver-only (UDP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "FPS-NB_Datagram-Out-UDP",
+        "DisplayName":  "File and Printer Sharing (NB-Datagram-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WiFiDirect-KM-Driver-Out-TCP",
+        "DisplayName":  "WFD Driver-only (TCP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "FPS-NB_Session-Out-TCP-NoScope",
+        "DisplayName":  "File and Printer Sharing (NB-Session-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "WiFiDirect-KM-Driver-Out-UDP",
+        "DisplayName":  "WFD Driver-only (UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft-Windows-WLANSvc-ASP-CP-In",
+        "DisplayName":  "WFD ASP Coordination Protocol (UDP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "FPS-NB_Name-Out-UDP",
+        "DisplayName":  "File and Printer Sharing (NB-Name-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "FPS-LLMNR-In-UDP",
+        "DisplayName":  "File and Printer Sharing (LLMNR-UDP-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "FPS-LLMNR-Out-UDP",
+        "DisplayName":  "File and Printer Sharing (LLMNR-UDP-Out)",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "TCP Query User{E34BADDA-152B-4C17-9D4D-01A7AF05D833}C:\\xampp\\apache\\bin\\httpd.exe",
+        "DisplayName":  "Apache HTTP Server",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "UDP Query User{EDC35D12-BC08-4AFB-B2CE-2864EB92E36A}C:\\xampp\\apache\\bin\\httpd.exe",
+        "DisplayName":  "Apache HTTP Server",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "TCP Query User{7F976F4C-D562-430A-9DCC-734FB3D537B6}C:\\xampp\\mysql\\bin\\mysqld.exe",
+        "DisplayName":  "mysqld",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "UDP Query User{155F6C1D-CB60-44E7-B553-F1BB349EDD6D}C:\\xampp\\mysql\\bin\\mysqld.exe",
+        "DisplayName":  "mysqld",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "High",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.WindowsCamera_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Camera",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.WindowsCamera_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "Windows Camera",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Web Experience Pack",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Feedback Hub",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "Feedback Hub",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "{12765226-3feb-462c-97e3-3544d62a7daf}",
+        "DisplayName":  "Allow FTP Server",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Start",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy-In-Allow-ServerCapability",
+        "DisplayName":  "Start",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.54792954.Filons_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Feature Experience Pack",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.CBS_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Feature Experience Pack",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.CBS_cw5n1h2txyewy-In-Allow-ServerCapability",
+        "DisplayName":  "Windows Feature Experience Pack",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Click to Do",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.Core_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Feature Experience Pack",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.Core_cw5n1h2txyewy-In-Allow-ServerCapability",
+        "DisplayName":  "Windows Feature Experience Pack",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.FileExp_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Feature Experience Pack",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.OOBE_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Feature Experience Pack",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.OOBE_cw5n1h2txyewy-In-Allow-ServerCapability",
+        "DisplayName":  "Windows Feature Experience Pack",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.Photon_cw5n1h2txyewy-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Feature Experience Pack",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "MicrosoftWindows.Client.Photon_cw5n1h2txyewy-In-Allow-ServerCapability",
+        "DisplayName":  "Windows Feature Experience Pack",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.WidgetsPlatformRuntime_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Widgets Platform Runtime",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Solitaire \u0026 Casual Games",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "Solitaire \u0026 Casual Games",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.ZuneMusic_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Media Player",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.ZuneMusic_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "Windows Media Player",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "{FB61B76A-1C04-48D9-AEAB-A93E57B6B5B9}",
+        "DisplayName":  "Microsoft Edge (mDNS-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.DesktopAppInstaller_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "App Installer",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.DesktopAppInstaller_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "App Installer",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "{FC0B373A-2E0A-49C8-9653-BDD5358112A4}",
+        "DisplayName":  "Google Chrome (mDNS-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "{C6EF9152-7C6E-4015-9FBE-76504D1A1F61}",
+        "DisplayName":  "Microsoft Edge (mDNS-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "{9F4C4AF3-77BB-456D-B3EF-205F1084AD0E}",
+        "DisplayName":  "Microsoft Edge (mDNS-In)",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Applies to all profiles (Domain, Private, Public)."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.StartExperiencesApp_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Start Experiences App",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.GetHelp_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Get Help",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.WindowsTerminal_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Windows Terminal",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.BingWeather_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "MSN Weather",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.BingWeather_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "MSN Weather",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.GamingApp_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Xbox",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.GamingApp_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "Xbox",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.StorePurchaseApp_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Store Experience Host",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.StorePurchaseApp_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "Store Experience Host",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Clipchamp.Clipchamp_yxz26nhyzhsrt-Out-Allow-AllCapabilities",
+        "DisplayName":  "Microsoft Clipchamp",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.WindowsStore_8wekyb3d8bbwe-Out-Allow-AllCapabilities",
+        "DisplayName":  "Microsoft Store",
+        "Direction":  2,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    },
+    {
+        "Name":  "Microsoft.WindowsStore_8wekyb3d8bbwe-In-Allow-ServerCapability",
+        "DisplayName":  "Microsoft Store",
+        "Direction":  1,
+        "Action":  2,
+        "Enabled":  1,
+        "RiskLevel":  "Medium",
+        "IssuesFound":  [
+                            "Allows all local ports (wildcard).",
+                            "Applies to all protocols."
+                        ],
+        "RecommendationFile":  "Rules_Remediation.ps1"
+    }
+]

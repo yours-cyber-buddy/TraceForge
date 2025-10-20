@@ -1,0 +1,22 @@
+﻿{
+    "Mode":  "Deep",
+    "Image":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Output\\StegaScans\\Embedded\\stego_smiling.jpg",
+    "FoundHeader":  false,
+    "SuspiciousWithoutHeader":  true,
+    "DetectionBasis":  [
+                           "Deep: block analysis, sampled chi-like deviation \u0026 heuristics",
+                           "Sampled LSB ratio: 0.5009"
+                       ],
+    "SuspicionReasons":  "Anomalous blocks detected (455/812, fraction: 0.56) -\u003e localized stego likely.",
+    "Confidence":  "High",
+    "LsbRatio":  0.5023,
+    "PayloadName":  null,
+    "Encrypted":  false,
+    "ExtractedFile":  null,
+    "Issues":  [
+                   "Anomalous blocks detected (455/812, fraction: 0.56) -\u003e localized stego likely."
+               ],
+    "DeepChecks":  true,
+    "AttemptExtract":  false,
+    "ScanTime":  "2025-10-18T21:57:50"
+}

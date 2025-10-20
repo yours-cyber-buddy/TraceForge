@@ -1,0 +1,23 @@
+﻿{
+    "Mode":  "Extract",
+    "Image":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Output\\StegaScans\\Embedded\\stego_smiling.jpg",
+    "FoundHeader":  false,
+    "SuspiciousWithoutHeader":  false,
+    "DetectionBasis":  [
+                           "Extraction attempted but no header present"
+                       ],
+    "SuspicionReasons":  {
+
+                         },
+    "Confidence":  "Low",
+    "LsbRatio":  0.5023,
+    "PayloadName":  null,
+    "Encrypted":  false,
+    "ExtractedFile":  null,
+    "Issues":  [
+                   "No valid header found for extraction."
+               ],
+    "DeepChecks":  true,
+    "AttemptExtract":  true,
+    "ScanTime":  "2025-10-18T21:58:26"
+}

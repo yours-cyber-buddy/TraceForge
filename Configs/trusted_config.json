@@ -1,0 +1,34 @@
+{
+  "trusted_vendors": [
+    "Microsoft Corporation",
+    "Google LLC",
+    "OpenVPN Technologies, Inc.",
+    "Riot Games, Inc.",
+    "ASUSTeK Computer Inc.",
+    "Avast Software",
+    "NVIDIA Corporation",
+    "Intel Corporation",
+    "Oracle Corporation",
+    "Mozilla Corporation",
+    "Cisco Systems, Inc."
+  ],
+  "trusted_processes": [
+    "explorer.exe",
+    "svchost.exe",
+    "chrome.exe",
+    "firefox.exe",
+    "msedge.exe",
+    "taskmgr.exe",
+    "steam.exe",
+    "riotclient.exe",
+    "openvpn.exe"
+  ],
+  "trusted_ip_prefixes": [
+    "8.8.8.8",
+    "8.8.4.4",
+    "1.1.1.1",
+    "13.",
+    "52.",
+    "151.101."
+  ]
+}

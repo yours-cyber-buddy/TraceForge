@@ -1,0 +1,37 @@
+﻿[
+    {
+        "Output":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\Cat.webp",
+        "Status":  "Encrypted",
+        "Time":  "2025-10-18T22:04:35",
+        "File":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\Cat.webp",
+        "Meta":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\Cat.webp.meta.json"
+    },
+    {
+        "Output":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\New Text Document.txt",
+        "Status":  "Encrypted",
+        "Time":  "2025-10-18T22:04:35",
+        "File":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\New Text Document.txt",
+        "Meta":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\New Text Document.txt.meta.json"
+    },
+    {
+        "Output":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\Revshell.txt",
+        "Status":  "Encrypted",
+        "Time":  "2025-10-18T22:04:35",
+        "File":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\Revshell.txt",
+        "Meta":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\Revshell.txt.meta.json"
+    },
+    {
+        "Output":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\Selfie.jpg",
+        "Status":  "Encrypted",
+        "Time":  "2025-10-18T22:04:35",
+        "File":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\Selfie.jpg",
+        "Meta":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\Selfie.jpg.meta.json"
+    },
+    {
+        "Output":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\smiling.jpg",
+        "Status":  "Encrypted",
+        "Time":  "2025-10-18T22:04:35",
+        "File":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\smiling.jpg",
+        "Meta":  "C:\\Users\\myvic\\Desktop\\TraceForge-main\\Secret\\smiling.jpg.meta.json"
+    }
+]

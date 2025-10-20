@@ -1,0 +1,2360 @@
+﻿[
+    {
+        "ServiceName":  "ADPSvc",
+        "DisplayName":  "ADPSvc",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "ALG",
+        "DisplayName":  "Application Layer Gateway Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\alg.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "AppIDSvc",
+        "DisplayName":  "Application Identity",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Appinfo",
+        "DisplayName":  "Application Information",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "AppReadiness",
+        "DisplayName":  "App Readiness",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "AppXSvc",
+        "DisplayName":  "AppX Deployment Service (AppXSVC)",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "ApxSvc",
+        "DisplayName":  "Windows Virtual Audio Device Proxy Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "AudioEndpointBuilder",
+        "DisplayName":  "Windows Audio Endpoint Builder",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Audiosrv",
+        "DisplayName":  "Windows Audio",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "autotimesvc",
+        "DisplayName":  "Cellular Time",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "AxInstSV",
+        "DisplayName":  "ActiveX Installer (AxInstSV)",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "BDESVC",
+        "DisplayName":  "BitLocker Drive Encryption Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "BFE",
+        "DisplayName":  "Base Filtering Engine",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "BITS",
+        "DisplayName":  "Background Intelligent Transfer Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "BrokerInfrastructure",
+        "DisplayName":  "Background Tasks Infrastructure Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Browser",
+        "DisplayName":  "Computer Browser",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "BTAGService",
+        "DisplayName":  "Bluetooth Audio Gateway Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "BthAvctpSvc",
+        "DisplayName":  "AVCTP service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "bthserv",
+        "DisplayName":  "Bluetooth Support Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "camsvc",
+        "DisplayName":  "Capability Access Manager Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "CDPSvc",
+        "DisplayName":  "Connected Devices Platform Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "CertPropSvc",
+        "DisplayName":  "Certificate Propagation",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "ClipSVC",
+        "DisplayName":  "Client License Service (ClipSVC)",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "COMSysApp",
+        "DisplayName":  "COM+ System Application",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\dllhost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "CoreMessagingRegistrar",
+        "DisplayName":  "CoreMessaging",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "CryptSvc",
+        "DisplayName":  "Cryptographic Services",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DcomLaunch",
+        "DisplayName":  "DCOM Server Process Launcher",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "dcsvc",
+        "DisplayName":  "Declared Configuration(DC) service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "defragsvc",
+        "DisplayName":  "Optimize drives",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DeviceAssociationService",
+        "DisplayName":  "Device Association Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DeviceInstall",
+        "DisplayName":  "Device Install Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DevQueryBroker",
+        "DisplayName":  "DevQuery Background Discovery Broker",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Dhcp",
+        "DisplayName":  "DHCP Client",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "diagsvc",
+        "DisplayName":  "Diagnostic Execution Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DiagTrack",
+        "DisplayName":  "Connected User Experiences and Telemetry",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DispBrokerDesktopSvc",
+        "DisplayName":  "Display Policy Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DisplayEnhancementService",
+        "DisplayName":  "Display Enhancement Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DmEnrollmentSvc",
+        "DisplayName":  "Device Management Enrollment Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "dmwappushservice",
+        "DisplayName":  "Device Management Wireless Application Protocol (WAP) Push message Routing Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Dnscache",
+        "DisplayName":  "DNS Client",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DoSvc",
+        "DisplayName":  "Delivery Optimization",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "dot3svc",
+        "DisplayName":  "Wired AutoConfig",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DPS",
+        "DisplayName":  "Diagnostic Policy Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DsmSvc",
+        "DisplayName":  "Device Setup Manager",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DsSvc",
+        "DisplayName":  "Data Sharing Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DusmSvc",
+        "DisplayName":  "Data Usage",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "EapHost",
+        "DisplayName":  "Extensible Authentication Protocol",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "edgeupdate",
+        "DisplayName":  "Microsoft Edge Update Service (edgeupdate)",
+        "State":  "Stopped",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe",
+        "Signer":  "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "edgeupdatem",
+        "DisplayName":  "Microsoft Edge Update Service (edgeupdatem)",
+        "State":  "Stopped",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe",
+        "Signer":  "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "EFS",
+        "DisplayName":  "Encrypting File System (EFS)",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\lsass.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "embeddedmode",
+        "DisplayName":  "Embedded Mode",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "EntAppSvc",
+        "DisplayName":  "Enterprise App Management Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "EventLog",
+        "DisplayName":  "Windows Event Log",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "EventSystem",
+        "DisplayName":  "COM+ Event System",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "fdPHost",
+        "DisplayName":  "Function Discovery Provider Host",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "FDResPub",
+        "DisplayName":  "Function Discovery Resource Publication",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "fhsvc",
+        "DisplayName":  "File History Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "filezilla-server",
+        "DisplayName":  "filezilla-server",
+        "State":  "Running",
+        "Path":  "C:\\Program Files\\FileZilla Server\\filezilla-server.exe",
+        "Signer":  "CN=Tim Kosse, O=Tim Kosse, S=Nordrhein-Westfalen, C=DE",
+        "Suspicious":  true,
+        "Reason":  "Signed by non-Microsoft vendor"
+    },
+    {
+        "ServiceName":  "FontCache",
+        "DisplayName":  "Windows Font Cache Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "FrameServer",
+        "DisplayName":  "Windows Camera Frame Server",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "FrameServerMonitor",
+        "DisplayName":  "Windows Camera Frame Server Monitor",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "GameInputSvc",
+        "DisplayName":  "GameInput Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\GameInputSvc.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "GoogleChromeElevationService",
+        "DisplayName":  "Google Chrome Elevation Service (GoogleChromeElevationService)",
+        "State":  "Stopped",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\141.0.7390.108\\elevation_service.exe",
+        "Signer":  "CN=Google LLC, O=Google LLC, L=Mountain View, S=California, C=US, SERIALNUMBER=3582691, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US",
+        "Suspicious":  true,
+        "Reason":  "Signed by non-Microsoft vendor"
+    },
+    {
+        "ServiceName":  "GoogleUpdaterInternalService142.0.7416.0",
+        "DisplayName":  "Google updater internal service (GoogleUpdaterInternalService142.0.7416.0)",
+        "State":  "Stopped",
+        "Path":  "C:\\Program Files (x86)\\Google\\GoogleUpdater\\142.0.7416.0\\updater.exe",
+        "Signer":  "CN=Google LLC, O=Google LLC, L=Mountain View, S=California, C=US, SERIALNUMBER=3582691, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US",
+        "Suspicious":  true,
+        "Reason":  "Signed by non-Microsoft vendor"
+    },
+    {
+        "ServiceName":  "GoogleUpdaterService142.0.7416.0",
+        "DisplayName":  "Google Updater Service (GoogleUpdaterService142.0.7416.0)",
+        "State":  "Stopped",
+        "Path":  "C:\\Program Files (x86)\\Google\\GoogleUpdater\\142.0.7416.0\\updater.exe",
+        "Signer":  "CN=Google LLC, O=Google LLC, L=Mountain View, S=California, C=US, SERIALNUMBER=3582691, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US",
+        "Suspicious":  true,
+        "Reason":  "Signed by non-Microsoft vendor"
+    },
+    {
+        "ServiceName":  "gpsvc",
+        "DisplayName":  "Group Policy Client",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "GraphicsPerfSvc",
+        "DisplayName":  "GraphicsPerfSvc",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "hidserv",
+        "DisplayName":  "Human Interface Device Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "hpatchmon",
+        "DisplayName":  "Hotpatch Monitoring Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "HvHost",
+        "DisplayName":  "HV Host Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "icssvc",
+        "DisplayName":  "Windows Mobile Hotspot Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "IKEEXT",
+        "DisplayName":  "IKE and AuthIP IPsec Keying Modules",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "InstallService",
+        "DisplayName":  "Microsoft Store Install Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "InventorySvc",
+        "DisplayName":  "Inventory and Compatibility Appraisal service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "iphlpsvc",
+        "DisplayName":  "IP Helper",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "IpxlatCfgSvc",
+        "DisplayName":  "IP Translation Configuration Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "KeyIso",
+        "DisplayName":  "CNG Key Isolation",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\lsass.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "KtmRm",
+        "DisplayName":  "KtmRm for Distributed Transaction Coordinator",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "LanmanServer",
+        "DisplayName":  "Server",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "LanmanWorkstation",
+        "DisplayName":  "Workstation",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "lfsvc",
+        "DisplayName":  "Geolocation Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "LicenseManager",
+        "DisplayName":  "Windows License Manager Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "lltdsvc",
+        "DisplayName":  "Link-Layer Topology Discovery Mapper",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "lmhosts",
+        "DisplayName":  "TCP/IP NetBIOS Helper",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "LocalKdc",
+        "DisplayName":  "Kerberos Local Key Distribution Center",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\lsass.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "LSM",
+        "DisplayName":  "Local Session Manager",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "LxpSvc",
+        "DisplayName":  "Language Experience Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "MapsBroker",
+        "DisplayName":  "Downloaded Maps Manager",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "McmSvc",
+        "DisplayName":  "This service provides profile management for mobile connectivity modules",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "McpManagementService",
+        "DisplayName":  "McpManagementService",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "MDCoreSvc",
+        "DisplayName":  "Microsoft Defender Core Service",
+        "State":  "Running",
+        "Path":  "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25080.5-0\\MpDefenderCoreService.exe",
+        "Signer":  "CN=Microsoft Windows Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "MicrosoftEdgeElevationService",
+        "DisplayName":  "Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)",
+        "State":  "Stopped",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\141.0.3537.85\\elevation_service.exe",
+        "Signer":  "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "mpssvc",
+        "DisplayName":  "Windows Defender Firewall",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "MSDTC",
+        "DisplayName":  "Distributed Transaction Coordinator",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\msdtc.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "MSiSCSI",
+        "DisplayName":  "Microsoft iSCSI Initiator Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "msiserver",
+        "DisplayName":  "Windows Installer",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\msiexec.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "NaturalAuthentication",
+        "DisplayName":  "Natural Authentication",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "NcaSvc",
+        "DisplayName":  "Network Connectivity Assistant",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "NcbService",
+        "DisplayName":  "Network Connection Broker",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "NcdAutoSetup",
+        "DisplayName":  "Network Connected Devices Auto-Setup",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Netlogon",
+        "DisplayName":  "Netlogon",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\lsass.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Netman",
+        "DisplayName":  "Network Connections",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "netprofm",
+        "DisplayName":  "Network List Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "NetSetupSvc",
+        "DisplayName":  "Network Setup Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "NetTcpPortSharing",
+        "DisplayName":  "Net.Tcp Port Sharing Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319\\SMSvcHost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "NgcCtnrSvc",
+        "DisplayName":  "Microsoft Passport Container",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "NgcSvc",
+        "DisplayName":  "Microsoft Passport",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "NlaSvc",
+        "DisplayName":  "Network Location Awareness",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "nsi",
+        "DisplayName":  "Network Store Interface Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PcaSvc",
+        "DisplayName":  "Program Compatibility Assistant Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "perceptionsimulation",
+        "DisplayName":  "Windows Perception Simulation Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\PerceptionSimulation\\PerceptionSimulationService.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PerfHost",
+        "DisplayName":  "Performance Counter DLL Host",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\SysWow64\\perfhost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PhoneSvc",
+        "DisplayName":  "Phone Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "pla",
+        "DisplayName":  "Performance Logs \u0026 Alerts",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PlugPlay",
+        "DisplayName":  "Plug and Play",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PolicyAgent",
+        "DisplayName":  "IPsec Policy Agent",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Power",
+        "DisplayName":  "Power",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PrintDeviceConfigurationService",
+        "DisplayName":  "Print Device Configuration Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PrintNotify",
+        "DisplayName":  "Printer Extensions and Notifications",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PrintScanBrokerService",
+        "DisplayName":  "PrintScanBrokerService",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "ProfSvc",
+        "DisplayName":  "User Profile Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "ProtonVPN Service",
+        "DisplayName":  "ProtonVPN Service",
+        "State":  "Running",
+        "Path":  "C:\\Program Files\\Proton\\VPN\\v4.3.4\\ProtonVPNService.exe",
+        "Signer":  "CN=Proton AG, O=Proton AG, S=Genève, C=CH, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=CH, SERIALNUMBER=CHE-354.686.492",
+        "Suspicious":  true,
+        "Reason":  "Signed by non-Microsoft vendor"
+    },
+    {
+        "ServiceName":  "ProtonVPN WireGuard",
+        "DisplayName":  "ProtonVPN WireGuard",
+        "State":  "Stopped",
+        "Path":  "C:\\Program Files\\Proton\\VPN\\v4.3.4\\ProtonVPN.WireGuardService.exe",
+        "Signer":  "CN=Proton AG, O=Proton AG, S=Genève, C=CH, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=CH, SERIALNUMBER=CHE-354.686.492",
+        "Suspicious":  true,
+        "Reason":  "Signed by non-Microsoft vendor"
+    },
+    {
+        "ServiceName":  "PushToInstall",
+        "DisplayName":  "Windows PushToInstall Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "QWAVE",
+        "DisplayName":  "Quality Windows Audio Video Experience",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "RasAuto",
+        "DisplayName":  "Remote Access Auto Connection Manager",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "RasMan",
+        "DisplayName":  "Remote Access Connection Manager",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "refsdedupsvc",
+        "DisplayName":  "ReFS Dedup Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\ReFsDedupSvc.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "RemoteAccess",
+        "DisplayName":  "Routing and Remote Access",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "RemoteRegistry",
+        "DisplayName":  "Remote Registry",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "RetailDemo",
+        "DisplayName":  "Retail Demo Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "RmSvc",
+        "DisplayName":  "Radio Management Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "RpcEptMapper",
+        "DisplayName":  "RPC Endpoint Mapper",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "RpcLocator",
+        "DisplayName":  "Remote Procedure Call (RPC) Locator",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\locator.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "RpcSs",
+        "DisplayName":  "Remote Procedure Call (RPC)",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SamSs",
+        "DisplayName":  "Security Accounts Manager",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\lsass.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SCardSvr",
+        "DisplayName":  "Smart Card",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "ScDeviceEnum",
+        "DisplayName":  "Smart Card Device Enumeration Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Schedule",
+        "DisplayName":  "Task Scheduler",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SCPolicySvc",
+        "DisplayName":  "Smart Card Removal Policy",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SDRSVC",
+        "DisplayName":  "Windows Backup",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "seclogon",
+        "DisplayName":  "Secondary Logon",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SecurityHealthService",
+        "DisplayName":  "Windows Security Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\SecurityHealthService.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SEMgrSvc",
+        "DisplayName":  "Payments and NFC/SE Manager",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SENS",
+        "DisplayName":  "System Event Notification Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SensorDataService",
+        "DisplayName":  "Sensor Data Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\SensorDataService.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SensorService",
+        "DisplayName":  "Sensor Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SensrSvc",
+        "DisplayName":  "Sensor Monitoring Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SessionEnv",
+        "DisplayName":  "Remote Desktop Configuration",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SharedAccess",
+        "DisplayName":  "Internet Connection Sharing (ICS)",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "ShellHWDetection",
+        "DisplayName":  "Shell Hardware Detection",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "shpamsvc",
+        "DisplayName":  "Shared PC Account Manager",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "smphost",
+        "DisplayName":  "Microsoft Storage Spaces SMP",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SmsRouter",
+        "DisplayName":  "Microsoft Windows SMS Router Service.",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SNMPTrap",
+        "DisplayName":  "SNMP Trap",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\snmptrap.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Spooler",
+        "DisplayName":  "Print Spooler",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\spoolsv.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "sppsvc",
+        "DisplayName":  "Software Protection",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\sppsvc.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SSDPSRV",
+        "DisplayName":  "SSDP Discovery",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "ssh-agent",
+        "DisplayName":  "OpenSSH Authentication Agent",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\OpenSSH\\ssh-agent.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SstpSvc",
+        "DisplayName":  "Secure Socket Tunneling Protocol Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "StateRepository",
+        "DisplayName":  "State Repository Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "StiSvc",
+        "DisplayName":  "Windows Image Acquisition (WIA)",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "StorSvc",
+        "DisplayName":  "Storage Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "svsvc",
+        "DisplayName":  "Spot Verifier",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "swprv",
+        "DisplayName":  "Microsoft Software Shadow Copy Provider",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SysMain",
+        "DisplayName":  "SysMain",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "SystemEventsBroker",
+        "DisplayName":  "System Events Broker",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "TapiSrv",
+        "DisplayName":  "Telephony",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "TermService",
+        "DisplayName":  "Remote Desktop Services",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "TextInputManagementService",
+        "DisplayName":  "Text Input Management Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Themes",
+        "DisplayName":  "Themes",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "TieringEngineService",
+        "DisplayName":  "Storage Tiers Management",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\TieringEngineService.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "TimeBrokerSvc",
+        "DisplayName":  "Time Broker",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "TokenBroker",
+        "DisplayName":  "Web Account Manager",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "TrkWks",
+        "DisplayName":  "Distributed Link Tracking Client",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "TroubleshootingSvc",
+        "DisplayName":  "Recommended Troubleshooting Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "TrustedInstaller",
+        "DisplayName":  "Windows Modules Installer",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\servicing\\TrustedInstaller.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "tzautoupdate",
+        "DisplayName":  "Auto Time Zone Updater",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "UmRdpService",
+        "DisplayName":  "Remote Desktop Services UserMode Port Redirector",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "upnphost",
+        "DisplayName":  "UPnP Device Host",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "UserManager",
+        "DisplayName":  "User Manager",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "UsoSvc",
+        "DisplayName":  "Update Orchestrator Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "VaultSvc",
+        "DisplayName":  "Credential Manager",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\lsass.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "VBoxService",
+        "DisplayName":  "VirtualBox Guest Additions Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\VBoxService.exe",
+        "Signer":  "Unsigned",
+        "Suspicious":  true,
+        "Reason":  "Unsigned service binary"
+    },
+    {
+        "ServiceName":  "vds",
+        "DisplayName":  "Virtual Disk",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\vds.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "vmicguestinterface",
+        "DisplayName":  "Hyper-V Guest Service Interface",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "vmicheartbeat",
+        "DisplayName":  "Hyper-V Heartbeat Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "vmickvpexchange",
+        "DisplayName":  "Hyper-V Data Exchange Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "vmicrdv",
+        "DisplayName":  "Hyper-V Remote Desktop Virtualization Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "vmicshutdown",
+        "DisplayName":  "Hyper-V Guest Shutdown Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "vmictimesync",
+        "DisplayName":  "Hyper-V Time Synchronization Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "vmicvmsession",
+        "DisplayName":  "Hyper-V PowerShell Direct Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "vmicvss",
+        "DisplayName":  "Hyper-V Volume Shadow Copy Requestor",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "VSS",
+        "DisplayName":  "Volume Shadow Copy",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\vssvc.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "W32Time",
+        "DisplayName":  "Windows Time",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WaaSMedicSvc",
+        "DisplayName":  "WaaSMedicSvc",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WalletService",
+        "DisplayName":  "WalletService",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WarpJITSvc",
+        "DisplayName":  "Warp JIT Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "wbengine",
+        "DisplayName":  "Block Level Backup Engine Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\wbengine.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WbioSrvc",
+        "DisplayName":  "Windows Biometric Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Wcmsvc",
+        "DisplayName":  "Windows Connection Manager",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "wcncsvc",
+        "DisplayName":  "Windows Connect Now - Config Registrar",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WdiServiceHost",
+        "DisplayName":  "Diagnostic Service Host",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WdiSystemHost",
+        "DisplayName":  "Diagnostic System Host",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WdNisSvc",
+        "DisplayName":  "Microsoft Defender Antivirus Network Inspection Service",
+        "State":  "Running",
+        "Path":  "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25080.5-0\\NisSrv.exe",
+        "Signer":  "CN=Microsoft Windows Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WebClient",
+        "DisplayName":  "WebClient",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "webthreatdefsvc",
+        "DisplayName":  "Web Threat Defense Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Wecsvc",
+        "DisplayName":  "Windows Event Collector",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WEPHOSTSVC",
+        "DisplayName":  "Windows Encryption Provider Host Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "wercplsupport",
+        "DisplayName":  "Problem Reports Control Panel Support",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WerSvc",
+        "DisplayName":  "Windows Error Reporting Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WFDSConMgrSvc",
+        "DisplayName":  "Wi-Fi Direct Services Connection Manager Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "whesvc",
+        "DisplayName":  "Windows Health and Optimized Experiences",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WiaRpc",
+        "DisplayName":  "Still Image Acquisition Events",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WinDefend",
+        "DisplayName":  "Microsoft Defender Antivirus Service",
+        "State":  "Running",
+        "Path":  "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25080.5-0\\MsMpEng.exe",
+        "Signer":  "CN=Microsoft Windows Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WinHttpAutoProxySvc",
+        "DisplayName":  "WinHTTP Web Proxy Auto-Discovery Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "Winmgmt",
+        "DisplayName":  "Windows Management Instrumentation",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WinRM",
+        "DisplayName":  "Windows Remote Management (WS-Management)",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "wisvc",
+        "DisplayName":  "Windows Insider Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WlanSvc",
+        "DisplayName":  "WLAN AutoConfig",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "wlidsvc",
+        "DisplayName":  "Microsoft Account Sign-in Assistant",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "wlpasvc",
+        "DisplayName":  "Local Profile Assistant Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WManSvc",
+        "DisplayName":  "Windows Management Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "wmiApSrv",
+        "DisplayName":  "WMI Performance Adapter",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\wbem\\WmiApSrv.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WMPNetworkSvc",
+        "DisplayName":  "Windows Media Player Network Sharing Service",
+        "State":  "Stopped",
+        "Path":  "C:\\Program Files\\Windows Media Player\\wmpnetwk.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "workfolderssvc",
+        "DisplayName":  "Work Folders",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WpcMonSvc",
+        "DisplayName":  "Parental Controls",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WPDBusEnum",
+        "DisplayName":  "Portable Device Enumerator Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WpnService",
+        "DisplayName":  "Windows Push Notifications System Service",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WSAIFabricSvc",
+        "DisplayName":  "WSAIFabricSvc",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "wscsvc",
+        "DisplayName":  "Security Center",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WSearch",
+        "DisplayName":  "Windows Search",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\SearchIndexer.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "wuauserv",
+        "DisplayName":  "Windows Update",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WwanSvc",
+        "DisplayName":  "WWAN AutoConfig",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "XblAuthManager",
+        "DisplayName":  "Xbox Live Auth Manager",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "XblGameSave",
+        "DisplayName":  "Xbox Live Game Save",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "XboxGipSvc",
+        "DisplayName":  "Xbox Accessory Management Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "XboxNetApiSvc",
+        "DisplayName":  "Xbox Live Networking Service",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "AarSvc_38522",
+        "DisplayName":  "Agent Activation Runtime_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "BcastDVRUserService_38522",
+        "DisplayName":  "GameDVR and Broadcast User Service_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "BluetoothUserService_38522",
+        "DisplayName":  "Bluetooth User Support Service_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "CaptureService_38522",
+        "DisplayName":  "CaptureService_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "cbdhsvc_38522",
+        "DisplayName":  "Clipboard User Service_38522",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "CDPUserSvc_38522",
+        "DisplayName":  "Connected Devices Platform User Service_38522",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "CloudBackupRestoreSvc_38522",
+        "DisplayName":  "Cloud Backup and Restore Service_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "ConsentUxUserSvc_38522",
+        "DisplayName":  "ConsentUX User Service_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "CredentialEnrollmentManagerUserSvc_38522",
+        "DisplayName":  "CredentialEnrollmentManagerUserSvc_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\CredentialEnrollmentManager.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DeviceAssociationBrokerSvc_38522",
+        "DisplayName":  "DeviceAssociationBroker_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DevicePickerUserSvc_38522",
+        "DisplayName":  "DevicePicker_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "DevicesFlowUserSvc_38522",
+        "DisplayName":  "DevicesFlow_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "MessagingService_38522",
+        "DisplayName":  "MessagingService_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "NPSMSvc_38522",
+        "DisplayName":  "Now Playing Session Manager Service_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "OneSyncSvc_38522",
+        "DisplayName":  "Sync Host_38522",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "P9RdrService_38522",
+        "DisplayName":  "P9RdrService_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PenService_38522",
+        "DisplayName":  "PenService_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PimIndexMaintenanceSvc_38522",
+        "DisplayName":  "Contact Data_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "PrintWorkflowUserSvc_38522",
+        "DisplayName":  "PrintWorkflow_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "UdkUserSvc_38522",
+        "DisplayName":  "Udk User Service_38522",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "UnistoreSvc_38522",
+        "DisplayName":  "User Data Storage_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "UserDataSvc_38522",
+        "DisplayName":  "User Data Access_38522",
+        "State":  "Stopped",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "webthreatdefusersvc_38522",
+        "DisplayName":  "Web Threat Defense User Service_38522",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    },
+    {
+        "ServiceName":  "WpnUserService_38522",
+        "DisplayName":  "Windows Push Notifications User Service_38522",
+        "State":  "Running",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Signer":  "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+        "Suspicious":  false,
+        "Reason":  ""
+    }
+]

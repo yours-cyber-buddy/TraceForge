@@ -1,0 +1,1242 @@
+﻿[
+    {
+        "ProcessName":  "System Idle Process",
+        "PID":  0,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "System",
+        "PID":  4,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "Registry",
+        "PID":  136,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "smss.exe",
+        "PID":  500,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "csrss.exe",
+        "PID":  648,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "wininit.exe",
+        "PID":  724,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "csrss.exe",
+        "PID":  732,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "winlogon.exe",
+        "PID":  796,
+        "Path":  "C:\\WINDOWS\\system32\\winlogon.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "services.exe",
+        "PID":  872,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "lsass.exe",
+        "PID":  892,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  312,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "fontdrvhost.exe",
+        "PID":  528,
+        "Path":  "C:\\WINDOWS\\system32\\fontdrvhost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "fontdrvhost.exe",
+        "PID":  480,
+        "Path":  "C:\\WINDOWS\\system32\\fontdrvhost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  920,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1040,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "dwm.exe",
+        "PID":  1128,
+        "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1184,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1300,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1332,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1344,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1428,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1480,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1496,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1540,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1628,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "VBoxService.exe",
+        "PID":  1708,
+        "Path":  "C:\\WINDOWS\\System32\\VBoxService.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1724,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1792,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1832,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1972,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2012,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2040,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  1264,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "Memory Compression",
+        "PID":  2168,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2224,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2232,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2292,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2300,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2432,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2440,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2536,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2624,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2676,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2712,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "audiodg.exe",
+        "PID":  2828,
+        "Path":  "C:\\WINDOWS\\system32\\AUDIODG.EXE",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2864,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  2972,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "spoolsv.exe",
+        "PID":  768,
+        "Path":  "C:\\WINDOWS\\System32\\spoolsv.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3100,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3124,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3228,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3236,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3244,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "filezilla-server.exe",
+        "PID":  3252,
+        "Path":  "C:\\Program Files\\FileZilla Server\\filezilla-server.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3280,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3304,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "MpDefenderCoreService.exe",
+        "PID":  3328,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3388,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3428,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3456,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3480,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3492,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "MsMpEng.exe",
+        "PID":  3512,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3548,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  4680,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  4920,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  4928,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "AggregatorHost.exe",
+        "PID":  5088,
+        "Path":  "C:\\WINDOWS\\System32\\AggregatorHost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "sihost.exe",
+        "PID":  4120,
+        "Path":  "C:\\WINDOWS\\system32\\sihost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3500,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3908,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  4584,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  4664,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "taskhostw.exe",
+        "PID":  2904,
+        "Path":  "C:\\WINDOWS\\system32\\taskhostw.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3296,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "explorer.exe",
+        "PID":  3268,
+        "Path":  "C:\\WINDOWS\\Explorer.EXE",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "SearchIndexer.exe",
+        "PID":  5124,
+        "Path":  "C:\\WINDOWS\\system32\\SearchIndexer.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  5244,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  5388,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  5396,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  5616,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  5672,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  5728,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  5812,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "ShellHost.exe",
+        "PID":  5892,
+        "Path":  "C:\\Windows\\System32\\ShellHost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "CrossDeviceResume.exe",
+        "PID":  3224,
+        "Path":  "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "SearchHost.exe",
+        "PID":  6188,
+        "Path":  "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "StartMenuExperienceHost.exe",
+        "PID":  6196,
+        "Path":  "C:\\WINDOWS\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "RuntimeBroker.exe",
+        "PID":  6464,
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  6528,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "RuntimeBroker.exe",
+        "PID":  6632,
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "Widgets.exe",
+        "PID":  6692,
+        "Path":  "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.24401.50.0_x64__cw5n1h2txyewy\\Dashboard\\Widgets.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  6868,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  7124,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "WidgetService.exe",
+        "PID":  6376,
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "msedgewebview2.exe",
+        "PID":  7412,
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "msedgewebview2.exe",
+        "PID":  7720,
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "msedgewebview2.exe",
+        "PID":  8168,
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "ctfmon.exe",
+        "PID":  7488,
+        "Path":  "C:\\WINDOWS\\system32\\ctfmon.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "msedgewebview2.exe",
+        "PID":  7752,
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "msedgewebview2.exe",
+        "PID":  8024,
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "msedgewebview2.exe",
+        "PID":  8144,
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  8204,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "NisSrv.exe",
+        "PID":  6652,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  9244,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  9300,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  9524,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  6508,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "TextInputHost.exe",
+        "PID":  7564,
+        "Path":  "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "smartscreen.exe",
+        "PID":  10660,
+        "Path":  "C:\\Windows\\System32\\smartscreen.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  10708,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "SecurityHealthService.exe",
+        "PID":  10528,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "ShellExperienceHost.exe",
+        "PID":  11340,
+        "Path":  "C:\\WINDOWS\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "RuntimeBroker.exe",
+        "PID":  11548,
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "SecurityHealthSystray.exe",
+        "PID":  11740,
+        "Path":  "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "VBoxTray.exe",
+        "PID":  12072,
+        "Path":  "C:\\Windows\\System32\\VBoxTray.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  11804,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "ProtonVPN.Client.exe",
+        "PID":  2900,
+        "Path":  "C:\\Program Files\\Proton\\VPN\\v4.3.4\\ProtonVPN.Client.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "ProtonVPNService.exe",
+        "PID":  4216,
+        "Path":  "C:\\Program Files\\Proton\\VPN\\v4.3.4\\ProtonVPNService.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  5592,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "ProtonDrive.exe",
+        "PID":  7792,
+        "Path":  "C:\\Users\\myvic\\AppData\\Local\\Programs\\Proton\\Drive\\ProtonDrive.exe",
+        "Suspicious":  false,
+        "Reason":  "Installed under user AppData (user apps)",
+        "Category":  "User Installed Application"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  8724,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  7796,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  4264,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  7512,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "WmiPrvSE.exe",
+        "PID":  1216,
+        "Path":  "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3436,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  8880,
+        "Path":  null,
+        "Suspicious":  true,
+        "Reason":  "Missing or invalid path",
+        "Category":  "Unknown"
+    },
+    {
+        "ProcessName":  "CrossDeviceService.exe",
+        "PID":  4516,
+        "Path":  "C:\\Program Files\\WindowsApps\\MicrosoftWindows.CrossDevice_1.25092.33.0_x64__cw5n1h2txyewy\\CrossDeviceService.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "RuntimeBroker.exe",
+        "PID":  1652,
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  10596,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  3212,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "OneDrive.exe",
+        "PID":  8892,
+        "Path":  "C:\\Users\\myvic\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe",
+        "Suspicious":  false,
+        "Reason":  "Installed under user AppData (user apps)",
+        "Category":  "User Installed Application"
+    },
+    {
+        "ProcessName":  "OneDrive.Sync.Service.exe",
+        "PID":  7836,
+        "Path":  "C:\\Users\\myvic\\AppData\\Local\\Microsoft\\OneDrive\\25.179.0914.0003\\OneDrive.Sync.Service.exe",
+        "Suspicious":  false,
+        "Reason":  "Installed under user AppData (user apps)",
+        "Category":  "User Installed Application"
+    },
+    {
+        "ProcessName":  "setup.exe",
+        "PID":  3356,
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Installer\\setup.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "setup.exe",
+        "PID":  10116,
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Installer\\setup.exe",
+        "Suspicious":  false,
+        "Reason":  "Standard Program Files install",
+        "Category":  "User Application"
+    },
+    {
+        "ProcessName":  "backgroundTaskHost.exe",
+        "PID":  520,
+        "Path":  "C:\\WINDOWS\\system32\\backgroundTaskHost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "RuntimeBroker.exe",
+        "PID":  1296,
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "dllhost.exe",
+        "PID":  3812,
+        "Path":  "C:\\WINDOWS\\system32\\DllHost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "dllhost.exe",
+        "PID":  4948,
+        "Path":  "C:\\WINDOWS\\system32\\DllHost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "cmd.exe",
+        "PID":  3532,
+        "Path":  "C:\\WINDOWS\\system32\\cmd.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "conhost.exe",
+        "PID":  5752,
+        "Path":  "C:\\WINDOWS\\system32\\conhost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "FileCoAuth.exe",
+        "PID":  868,
+        "Path":  "C:\\Users\\myvic\\AppData\\Local\\Microsoft\\OneDrive\\25.179.0914.0003\\FileCoAuth.exe",
+        "Suspicious":  false,
+        "Reason":  "Installed under user AppData (user apps)",
+        "Category":  "User Installed Application"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  10228,
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "WmiPrvSE.exe",
+        "PID":  12452,
+        "Path":  "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "svchost.exe",
+        "PID":  5560,
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "powershell.exe",
+        "PID":  4704,
+        "Path":  "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "conhost.exe",
+        "PID":  9472,
+        "Path":  "C:\\WINDOWS\\system32\\conhost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "MoUsoCoreWorker.exe",
+        "PID":  10868,
+        "Path":  "C:\\WINDOWS\\uus\\packages\\preview\\AMD64\\MoUsoCoreWorker.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "TrustedInstaller.exe",
+        "PID":  10616,
+        "Path":  "C:\\WINDOWS\\servicing\\TrustedInstaller.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "WmiPrvSE.exe",
+        "PID":  2620,
+        "Path":  "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "TiWorker.exe",
+        "PID":  3264,
+        "Path":  "C:\\WINDOWS\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.5074_none_a5532eb7772ad4c4\\TiWorker.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "MoNotificationUx.exe",
+        "PID":  2164,
+        "Path":  "C:\\WINDOWS\\uus\\packages\\preview\\AMD64\\MoNotificationUx.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "rundll32.exe",
+        "PID":  12368,
+        "Path":  "C:\\WINDOWS\\system32\\rundll32.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    },
+    {
+        "ProcessName":  "SearchProtocolHost.exe",
+        "PID":  13192,
+        "Path":  "C:\\WINDOWS\\System32\\SearchProtocolHost.exe",
+        "Suspicious":  false,
+        "Reason":  "System path or known system process",
+        "Category":  "System Process"
+    }
+]
